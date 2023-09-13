@@ -31,6 +31,18 @@ My intention is to delve deeper into the study of Software Engineering, aiming t
 - Effective team collaboration
 - Developing creative solutions for complex problems
 
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaumiJunior&show_icons=true&theme=radical)
+
+## GitHub Activity
+
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=DaumiJunior&theme=rogue)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaumiJunior&layout=compact&theme=radical)
+
 ## Contact
 
 Please feel free to get in touch with me through this GitHub profile. I'm always open to exchanging knowledge and exploring new opportunities.
