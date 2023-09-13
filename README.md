@@ -1,14 +1,14 @@
-# Olá, sou o @DaumiJunior
+# Hello, I'm @DaumiJunior
 
-## Resumo
+## Summary
 
-Sou um entusiasta da programação e um apaixonado por animes, com um carinho especial por One Piece. Além disso, o universo dos super-heróis também me fascina. Minha jornada na programação teve início com algoritmos, e desde então venho explorando e aprimorando meus conhecimentos nesse campo empolgante.
+I'm a programming enthusiast and a passionate anime fan, with a special love for One Piece. Additionally, the world of superheroes also fascinates me. My journey in programming began with algorithms, and since then, I've been exploring and enhancing my knowledge in this exciting field.
 
-## Experiência
+## Experience
 
-### Desenvolvedor Full-Stack
+### Full-Stack Developer
 
-Atualmente, estou trilhando o emocionante caminho de um Desenvolvedor Full-Stack. Tenho um amplo domínio em diversas tecnologias, tais como:
+Currently, I'm on the thrilling path of a Full-Stack Developer. I have extensive expertise in various technologies, such as:
 
 - Node.js 🛠️
 - React.js ⚛️
@@ -19,20 +19,20 @@ Atualmente, estou trilhando o emocionante caminho de um Desenvolvedor Full-Stack
 - Git 📜
 - GitHub 🐙
 
-## Educação
+## Education
 
-### Engenharia de Softwares (Próximo Passo)
+### Software Engineering (Next Step)
 
-Minha intenção é me aprofundar nos estudos da Engenharia de Softwares, buscando fortalecer minhas habilidades técnicas. Pretendo aplicar esse conhecimento em projetos desafiadores e inovadores.
+My intention is to delve deeper into the study of Software Engineering, aiming to strengthen my technical skills. I plan to apply this knowledge to challenging and innovative projects.
 
-## Habilidades
+## Skills
 
-- Resolução de desafios lógicos e de programação
-- Colaboração efetiva em equipe
-- Desenvolvimento de soluções criativas para problemas complexos
+- Logical problem-solving and programming
+- Effective team collaboration
+- Developing creative solutions for complex problems
 
-## Contato
+## Contact
 
-Sinta-se à vontade para entrar em contato comigo através deste perfil no GitHub. Estou sempre aberto a trocar conhecimentos e explorar novas oportunidades.
+Please feel free to get in touch with me through this GitHub profile. I'm always open to exchanging knowledge and exploring new opportunities.
 
-Vamos caminhar juntos nessa jornada de aprendizado e desenvolvimento! 🚀
+Let's journey together on this path of learning and development! 🚀
