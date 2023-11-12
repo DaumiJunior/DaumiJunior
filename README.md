@@ -79,6 +79,7 @@ Here are some of the skills I plan to acquire in the future as a Full Stack Deve
 <!-- Contact Section -->
 ## 📫 Contact
 
-Please feel free to get in touch with me via email at [Daumifreire401@gmail.com](mailto:Daumifreire401@gmail.com) or through my [GitHub profile](https://github.com/DaumiJunior). I'm always open to exchanging knowledge and exploring new opportunities.
+Please feel free to get in touch with me via email at [Daumifreire401@gmail.com](mailto:Daumifreire401@gmail.com) or through my [GitHub profile](https://github.com/DaumiJunior). Connect with me on [LinkedIn](https://www.linkedin.com/in/daumi-freire-barreto-junior-447b24283/recent-activity/all/) to explore more professional opportunities and stay updated on my recent activities.
 
-Let's journey together on this path of learning and development! 🚀
+I'm always open to exchanging knowledge and exploring new opportunities. Let's journey together on this path of learning and development! 🚀
+
