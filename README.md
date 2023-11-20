@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <p align="center">
 </p>
-<h1 align="center">Hi, I'm DaumiJunior</h1>
+<h1 align="center" style="background: linear-gradient(to right, #ff9966, #ff5e62); padding: 20px; border-radius: 10px; color: white;">Hi, I'm DaumiJunior</h1>
 <p align="center">
   <a href="mailto:Daumifreire401@gmail.com">
     <img src="https://img.shields.io/badge/Email-Daumifreire401%40gmail.com-blue?style=flat-square&logo=gmail">
@@ -79,7 +79,6 @@ Here are some of the skills I plan to acquire in the future as a Full Stack Deve
 <!-- Contact Section -->
 ## 📫 Contact
 
-Please feel free to get in touch with me via email at [Daumifreire401@gmail.com](mailto:Daumifreire401@gmail.com) or through my [GitHub profile](https://github.com/DaumiJunior). Connect with me on [LinkedIn](https://www.linkedin.com/in/daumi-freire-barreto-junior-447b24283/recent-activity/all/) to explore more professional opportunities and stay updated on my recent activities.
+Feel free to get in touch with me via email at [Daumifreire401@gmail.com](mailto:Daumifreire401@gmail.com) or through my [GitHub profile](https://github.com/DaumiJunior). Connect with me on [LinkedIn](https://www.linkedin.com/in/daumi-freire-barreto-junior-447b24283/recent-activity/all/) to explore more professional opportunities and stay updated on my recent activities.
 
 I'm always open to exchanging knowledge and exploring new opportunities. Let's journey together on this path of learning and development! 🚀
-
