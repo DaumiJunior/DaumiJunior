@@ -12,36 +12,32 @@
 </p>
 
 <!-- About Me Section -->
-## 👋 About Me
+## About Me
 
-I'm a programming enthusiast and a passionate anime fan, with a special love for One Piece. Additionally, the world of superheroes also fascinates me. My journey in programming began with algorithms, and since then, I've been exploring and enhancing my knowledge in this exciting field.
+- 🎓 Currently pursuing a degree in Software Engineering, with the aim of strengthening my technical skills.
+- 💻 Currently, I'm focused on enhancing my skills in Software Engineering.
+- 📚 Enthusiastic student always seeking new knowledge.
+- 🔭 Constantly exploring new technologies and frameworks.
+- 🌱 Love challenges and always eager to learn something new.
+- 🎯 Goal: Contribute to open-source projects and develop innovative solutions.
 
-<!-- Experience Section -->
-## 💼 Experience
 
 ### Full-Stack Developer
 
 🚀 Currently, I'm on the thrilling path of a Full-Stack Developer. I have extensive expertise in various technologies, such as:
-
-- ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-- ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-<!-- Education Section -->
-## 📚 Education
-
-### Software Engineering (Next Step)
-
-My intention is to delve deeper into the study of Software Engineering, aiming to strengthen my technical skills. I plan to apply this knowledge to challenging and innovative projects.
-
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
+    <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React.js">
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+    <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+</div>
 <!-- Skills Section -->
 ## 💡 Skills
 
@@ -61,20 +57,6 @@ Here are some of my key skills:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaumiJunior&layout=compact&theme=radical)
 
-<!-- Future Skills Section -->
-## 🚀 Future Skills
-
-Here are some of the skills I plan to acquire in the future as a Full Stack Developer:
-
-- ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-- ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-- ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-- ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-- ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 <!-- Contact Section -->
 ## 📫 Contact
